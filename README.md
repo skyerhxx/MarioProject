@@ -1,6 +1,7 @@
 # MarioProject
 
-马里奥游戏开发项目(Java)
+## 马里奥游戏开发项目(Java)
+
 
 
 
@@ -14,20 +15,14 @@ IDE:   IDEA
 
 程序主体：
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200327231931189.png" alt="image-20200327231931189" style="zoom: 80%;" />
+    BackGround
+    Enemy
+    Mario
+    MyFrame
+    Obstruction
+    StaticValue
+    
 
-步骤在博客中：
+步骤和游戏界面展示在博客中：
 
 https://blog.csdn.net/hxxjxw/article/details/104942318
-
-
-
-游戏界面展示：
-
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200327231011443.png" alt="image-20200327231011443" style="zoom:50%;" />
-
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200327231016636.png" alt="image-20200327231016636" style="zoom:50%;" />
-
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200327231022569.png" alt="image-20200327231022569" style="zoom:50%;" />
-
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200327231031150.png" alt="image-20200327231031150" style="zoom:50%;" />
