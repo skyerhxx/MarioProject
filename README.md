@@ -26,7 +26,9 @@ IDE:   IDEA
     MyFrame
     Obstruction
     StaticValue
-</br>    
+</br>
+    
+
 **操作**
 
     左右键移动
